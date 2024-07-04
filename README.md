@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gokul g g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul g g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gokul-g-g-4733b8313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gokul-g-g-4733b8313" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gokul gopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gokul gopi" height="30" width="40" /></a>
 </p>
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul-g-g&show_icons=true&locale=en" alt="gokul-g-g" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-g-g&" alt="gokul-g-g" /></p>
+
