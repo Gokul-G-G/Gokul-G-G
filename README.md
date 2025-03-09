@@ -17,9 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- LinkedIn -->
 <a href="https://linkedin.com/in/gokul-g-g-4733b8313
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gokul-g-g-4733b8313" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gokul gopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gokul gopi" height="30" width="40" /></a>
+" target="blank"><img align="center" src="https://skillicons.dev/icons?linkedin" alt="www.linkedin.com/in/gokul-g-g-4733b8313" height="30" width="40" /></a>
+  <!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/gokul gopi" target="blank"><img align="center" src="https://skillicons.dev/icons?stackoverflow" alt="gokul gopi" height="30" width="40" /></a>
 </p>
 
    <!-- Divider -->
@@ -27,9 +29,11 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <!-- First Row of Icons (Frontend & Design Tools) -->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind" /><br>
     <!-- Second Row of Icons (Backend & Database Tools) -->
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c++,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,cpp,java,nextjs,mysql,npm,vite" /><br>
+    <!-- Others-->
+    <img src="https://skillicons.dev/icons?i=arduino,notion,codepen,vscode,eclipse,github,figma,git,gitlab,netlify,kali" /><br>
 </div>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-g-g&show_icons=true&locale=en&layout=compact" alt="gokul-g-g" /></p>
