@@ -29,9 +29,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <!-- First Row of Icons (Frontend & Design Tools) -->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" /><br>
     <!-- Second Row of Icons (Backend & Database Tools) -->
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,cpp,java,nextjs,mysql,npm,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c,cpp,java,nextjs,mysql,npm,vite" /><br>
     <!-- Others-->
     <img src="https://skillicons.dev/icons?i=arduino,notion,codepen,vscode,eclipse,github,figma,git,gitlab,netlify,kali,postman" /><br>
 </div>
