@@ -23,7 +23,7 @@
 </p>
 
    <!-- Divider -->
-</hr>
+<hr/>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <!-- First Row of Icons (Frontend & Design Tools) -->
