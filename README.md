@@ -33,7 +33,7 @@
     <!-- Second Row of Icons (Backend & Database Tools) -->
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,cpp,java,nextjs,mysql,npm,vite" /><br>
     <!-- Others-->
-    <img src="https://skillicons.dev/icons?i=arduino,notion,codepen,vscode,eclipse,github,figma,git,gitlab,netlify,kali" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,notion,codepen,vscode,eclipse,github,figma,git,gitlab,netlify,kali,postman" /><br>
 </div>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-g-g&show_icons=true&locale=en&layout=compact" alt="gokul-g-g" /></p>
