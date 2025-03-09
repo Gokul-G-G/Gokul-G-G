@@ -27,7 +27,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <!-- First Row of Icons (Frontend & Design Tools) -->
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /><br>
     <!-- Second Row of Icons (Backend & Database Tools) -->
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c++,java,nextjs,mysql" /><br>
 </div>
