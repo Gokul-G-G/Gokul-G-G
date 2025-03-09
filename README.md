@@ -29,11 +29,11 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <!-- First Row of Icons (Frontend & Design Tools) -->
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind,vite" /><br>
     <!-- Second Row of Icons (Backend & Database Tools) -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c,cpp,java,nextjs,mysql,npm,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,npm,mongodb,mysql,c,cpp,java,netlify" /><br>
     <!-- Others-->
-    <img src="https://skillicons.dev/icons?i=arduino,notion,codepen,vscode,eclipse,github,figma,git,gitlab,netlify,kali,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=codepen,vscode,eclipse,git,github,gitlab,postman,figma,kali,arduino,notion," /><br>
 </div>
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-g-g&show_icons=true&locale=en&layout=compact" alt="gokul-g-g" /></p>
