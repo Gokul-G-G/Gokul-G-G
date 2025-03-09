@@ -19,9 +19,9 @@
 <p align="left">
   <!-- LinkedIn -->
 <a href="https://linkedin.com/in/gokul-g-g-4733b8313
-" target="blank"><img align="center" src="https://skillicons.dev/icons?linkedin" alt="www.linkedin.com/in/gokul-g-g-4733b8313" height="30" width="40" /></a>
+" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="www.linkedin.com/in/gokul-g-g-4733b8313" height="30" width="40" /></a>
   <!-- Stack Overflow -->
-<a href="https://stackoverflow.com/users/gokul gopi" target="blank"><img align="center" src="https://skillicons.dev/icons?stackoverflow" alt="gokul gopi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/gokul gopi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="gokul gopi" height="30" width="40" /></a>
 </p>
 
    <!-- Divider -->
