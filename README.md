@@ -31,7 +31,7 @@
     <!-- Second Row of Icons (Backend & Database Tools) -->
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c++,java,nextjs,mysql" /><br>
 </div>
-
+<hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul-g-g&show_icons=true&locale=en&layout=compact" alt="gokul-g-g" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul-g-g&show_icons=true&locale=en" alt="gokul-g-g" /></p>
