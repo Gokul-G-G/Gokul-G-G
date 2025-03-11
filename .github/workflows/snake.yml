@@ -1,7 +1,6 @@
 name: Generate Snake Contribution Grid
 
 on:
-  push:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
@@ -14,8 +13,9 @@ jobs:
         with:
           github_user_name: gokul-g-g  # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
+
       - name: Upload the generated SVG
-  uses: actions/upload-artifact@v4  # Updated from v2 to v4
-  with:
-    name: snake-animation
-    path: dist
+        uses: actions/upload-artifact@v4  # Updated to v4
+        with:
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg  # Ensure the correct path
