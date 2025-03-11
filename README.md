@@ -53,14 +53,6 @@
 
 <br/>
 <!-- Contribution Graph -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gokul-g-g/gokul-g-g/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
 
