@@ -1,6 +1,7 @@
 name: Generate Snake Contribution Grid
 
 on:
+  push:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
