@@ -15,7 +15,7 @@ jobs:
           github_user_name: gokul-g-g  # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Upload the generated SVG
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-animation
-          path: dist
+  uses: actions/upload-artifact@v4  # Updated from v2 to v4
+  with:
+    name: snake-animation
+    path: dist
