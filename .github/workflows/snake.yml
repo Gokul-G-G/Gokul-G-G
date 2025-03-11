@@ -14,8 +14,11 @@ jobs:
           github_user_name: gokul-g-g  # Replace with your GitHub username
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Ensure dist directory exists  # ✅ Add this to prevent errors
+        run: mkdir -p dist
+
       - name: Upload the generated SVG
-        uses: actions/upload-artifact@v4  # Updated to v4
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
-          path: dist/github-contribution-grid-snake.svg  # Ensure the correct path
+          path: dist/github-contribution-grid-snake.svg
