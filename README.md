@@ -12,9 +12,9 @@
         <img src="https://komarev.com/ghpvc/?username=gokul-g-g&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-g-g" />
       </p>
 
-      - 🌱 I’m currently learning MERN Stack  
+      - 🌱 I’m currently learning Next.js  
       
-      - 💬 Ask me about HTML, CSS, JavaScript,React  
+      - 💬 Ask me about HTML, CSS, JavaScript,React And Node  
       
       - 📫 Reach me at gokulraja143@gmail.com 
 
