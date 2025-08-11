@@ -7,7 +7,7 @@
 <table>
   <tr>
     <!-- Left Section -->
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <p>
         <img src="https://komarev.com/ghpvc/?username=gokul-g-g&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-g-g" />
       </p>
